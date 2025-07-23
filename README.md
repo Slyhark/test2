@@ -1,6 +1,6 @@
 # GHost Bot 17.3 - Versión Modificada
 
-Me complace presentarles mi **GHost Bot 17.2**, una versión personalizada que he desarrollado con mejoras significativas basadas en mi experiencia y criterio personal. Aunque considero que aún pueden surgir nuevas ideas y optimizaciones, quiero compartir las funcionalidades que he implementado hasta ahora.
+Me complace presentarles mi **GHost Bot 17.3**, una versión personalizada que he desarrollado con mejoras significativas basadas en mi experiencia y criterio personal. Aunque considero que aún pueden surgir nuevas ideas y optimizaciones, quiero compartir las funcionalidades que he implementado hasta ahora.
 
 ## Sistema W3MMD Mejorado
 
