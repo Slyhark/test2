@@ -16,8 +16,8 @@ He incorporado una categoría llamada **"rank"** que funciona de manera integrad
 ### Comandos de Consulta Avanzados
 Además del comando básico, he añadido el comando `!sg` que muestra las estadísticas de todas las categorías W3MMD registradas. Este comando es completamente personalizable y permite consultas específicas como:
 
-- `!sg torrelocal` - Estadísticas de una ubicación particular
-- `!sg torrelocal Ryan` - Estadísticas de un jugador específico
+- `!sg torreloca` - Estadísticas de una ubicación particular
+- `!sg torreloca Ryan` - Estadísticas de un jugador específico
 
 ### Integración con Discord
 Una de las características más interesantes que estoy desarrollando es una nueva **interfaz gráfica** que permite vincular el bot directamente con webhooks de Discord. Esta funcionalidad soporta hasta **cinco canales simultáneamente**, lo que brinda gran flexibilidad para comunidades grandes.
