@@ -26,7 +26,14 @@ Una de las características más interesantes que estoy desarrollando es una nue
 
 ## Visión del Proyecto
 
-Mi objetivo principal ha sido transformar lo que originalmente era un sistema técnicamente complejo en una **solución automatizada e intuitiva**. Quiero que cualquier administrador de servidor pueda implementar y gestionar estadísticas avanzadas de Warcraft III sin necesidad de conocimientos técnicos profundos, manteniendo al mismo tiempo toda la potencia y flexibilidad del sistema W3MMD.
+Mi objetivo principal ha sido transformar lo que originalmente era un sistema técnicamente complejo en una **solución automatizada e intuitiva**. Quiero que cualquier player de servidor pueda implementar y gestionar estadísticas avanzadas de Warcraft III sin necesidad de conocimientos técnicos profundos, manteniendo al mismo tiempo toda la potencia y flexibilidad del sistema W3MMD.
+
+## Archivos Disponibles
+
+| Herramienta | Descripción | Descarga |
+|-------------|-------------|----------|
+| **GHost Bot 17.2** | Bot principal con W3MMD | [ghost-turbo.rar](https://www.mediafire.com/file/zbrv5g7lu21icbm/ghost-turbo.rar/file) |
+| **Discord Monitor** | Interfaz para webhooks Discord | [WarcraftMonitor.rar](https://www.mediafire.com/file/141ke1k928rtqyk/WarcraftMonitor.rar/file) |
 
 --- use  ( mysql_tables_SLYHARK.sql )
 
