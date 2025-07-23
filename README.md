@@ -35,7 +35,16 @@ Mi objetivo principal ha sido transformar lo que originalmente era un sistema t�
 | **GHost Bot 17.3** | Bot principal con W3MMD | [ghost-turbo.rar](https://www.mediafire.com/file/zbrv5g7lu21icbm/ghost-turbo.rar/file) |
 | **Discord Monitor** | Interfaz para webhooks Discord | [WarcraftMonitor.rar](https://www.mediafire.com/file/141ke1k928rtqyk/WarcraftMonitor.rar/file) |
 
---- use  ( mysql_tables_SLYHARK.sql )
+## **Opción 3: Con advertencia destacada**
+
+```markdown
+## ⚠️ IMPORTANTE - Configuración Inicial
+
+### Script de Base de Datos Requerido
+
+```sql
+-- ARCHIVO OBLIGATORIO: mysql_tables_SLYHARK.sql
+-- Este script crea el esquema completo de tablas W3MMD
 
 ## Características Principales
 
