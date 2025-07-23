@@ -36,6 +36,7 @@ Mi objetivo principal ha sido transformar lo que originalmente era un sistema t�
 | **Discord Monitor** | Interfaz para webhooks Discord | [WarcraftMonitor.rar](https://www.mediafire.com/file/141ke1k928rtqyk/WarcraftMonitor.rar/file) |
 
 
+
 ```markdown
 ## ⚠️ IMPORTANTE - Configuración Inicial
 
