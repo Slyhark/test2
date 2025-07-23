@@ -28,7 +28,7 @@ Una de las características más interesantes que estoy desarrollando es una nue
 
 Mi objetivo principal ha sido transformar lo que originalmente era un sistema técnicamente complejo en una **solución automatizada e intuitiva**. Quiero que cualquier administrador de servidor pueda implementar y gestionar estadísticas avanzadas de Warcraft III sin necesidad de conocimientos técnicos profundos, manteniendo al mismo tiempo toda la potencia y flexibilidad del sistema W3MMD.
 
----
+--- use  ( mysql_tables_SLYHARK.sql )
 
 ## Características Principales
 
