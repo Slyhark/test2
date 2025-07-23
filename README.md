@@ -35,7 +35,6 @@ Mi objetivo principal ha sido transformar lo que originalmente era un sistema t�
 | **GHost Bot 17.3** | Bot principal con W3MMD | [ghost-turbo.rar](https://www.mediafire.com/file/zbrv5g7lu21icbm/ghost-turbo.rar/file) |
 | **Discord Monitor** | Interfaz para webhooks Discord | [WarcraftMonitor.rar](https://www.mediafire.com/file/141ke1k928rtqyk/WarcraftMonitor.rar/file) |
 
-## **Advertencia destacada**
 
 ```markdown
 ## ⚠️ IMPORTANTE - Configuración Inicial
