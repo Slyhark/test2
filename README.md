@@ -36,9 +36,6 @@ Mi objetivo principal ha sido transformar lo que originalmente era un sistema t�
 | **GHost Bot 17.31** | Bot principal con W3MMD | [ghost-turboV2.rar](https://www.mediafire.com/file/quwjtctoshqem9c/ghost-turboV2.rar/file) |
 | **Ladder with w3mmd** | Sitema de score w3mmd | [w3mmd_score.lua](https://github.com/Slyhark/test2/blob/main/w3mmd_score.lua) |
 
-
-##| **Discord Monitor** | Interfaz para webhooks Discord | [WarcraftMonitor.rar](https://www.mediafire.com/file/141ke1k928rtqyk/WarcraftMonitor.rar/file) |
-
 ```markdown
 ## ⚠️ IMPORTANTE - Configuración Inicial
 
