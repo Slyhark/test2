@@ -35,6 +35,7 @@ Mi objetivo principal ha sido transformar lo que originalmente era un sistema t�
 | **GHost Bot 17.3** | Bot principal con W3MMD | [ghost-turbo.rar](https://www.mediafire.com/file/ib88z46y357aits/ghost-turbo.rar/file) |
 | **GHost Bot 17.31** | Bot principal con W3MMD | [ghost-turboV2.rar](https://www.mediafire.com/file/quwjtctoshqem9c/ghost-turboV2.rar/file) |
 | **Ladder with w3mmd** | Sitema de score w3mmd | [w3mmd_score.lua](https://github.com/Slyhark/test2/blob/main/w3mmd_score.lua) |
+| **(2)EchoIsles_stats.w3x** | Map with w3mmd | [w3mmd_score.lua](https://github.com/Slyhark/test2/blob/main/w3mmd_score.lua) |
 
 ```markdown
 ## ⚠️ IMPORTANTE - Configuración Inicial
